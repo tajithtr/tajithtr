@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Tajith Rashidha</h1>
+<h1 align="center">👋 Hey, I'm Tajith Ekanayake</h1>
 <h3 align="center">Designing scalable, structured & user-focused digital systems 🚀</h3>
 
 <p align="center">
@@ -79,7 +79,7 @@
 ## 📫 Contact
 
 * 📧 **Email:** [tajithrashidha@gmail.com](mailto:tajithrashidha@gmail.com)
-* 🌐 [LinkedIn](https://www.linkedin.com/in/tajith-rashidha-57912b2a5) | [Facebook](https://facebook.com/tajithrashidha) | [Instagram](https://instagram.com/tajith_rashidha)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/tajith-ekanayake) | [Facebook](https://facebook.com/tajith.ekanayake) | [Instagram](https://instagram.com/tajith_ekanayake)
 
 ---
 
